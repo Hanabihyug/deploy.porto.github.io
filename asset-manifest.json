@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hanabihyug/deploy.porto.github.io/static/css/main.2d5e0dde.css",
+    "main.js": "/Hanabihyug/deploy.porto.github.io/static/js/main.61c113d4.js",
+    "static/media/capstone1.png": "/Hanabihyug/deploy.porto.github.io/static/media/capstone1.118cbf0b4bd8d6ffe1f0.png",
+    "static/media/profile.jpeg": "/Hanabihyug/deploy.porto.github.io/static/media/profile.75e0b45f708783506b67.jpeg",
+    "static/media/logo.svg": "/Hanabihyug/deploy.porto.github.io/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/logo2.svg": "/Hanabihyug/deploy.porto.github.io/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "index.html": "/Hanabihyug/deploy.porto.github.io/index.html",
+    "main.2d5e0dde.css.map": "/Hanabihyug/deploy.porto.github.io/static/css/main.2d5e0dde.css.map",
+    "main.61c113d4.js.map": "/Hanabihyug/deploy.porto.github.io/static/js/main.61c113d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5e0dde.css",
+    "static/js/main.61c113d4.js"
+  ]
+}
