@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hanabihyug/personal-web/personal-web/static/css/main.2d5e0dde.css",
+    "main.js": "/Hanabihyug/personal-web/personal-web/static/js/main.fbc533e4.js",
+    "static/media/capstone1.png": "/Hanabihyug/personal-web/personal-web/static/media/capstone1.118cbf0b4bd8d6ffe1f0.png",
+    "static/media/profile.jpeg": "/Hanabihyug/personal-web/personal-web/static/media/profile.75e0b45f708783506b67.jpeg",
+    "static/media/logo.svg": "/Hanabihyug/personal-web/personal-web/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/logo2.svg": "/Hanabihyug/personal-web/personal-web/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "index.html": "/Hanabihyug/personal-web/personal-web/index.html",
+    "main.2d5e0dde.css.map": "/Hanabihyug/personal-web/personal-web/static/css/main.2d5e0dde.css.map",
+    "main.fbc533e4.js.map": "/Hanabihyug/personal-web/personal-web/static/js/main.fbc533e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5e0dde.css",
+    "static/js/main.fbc533e4.js"
+  ]
+}
